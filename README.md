@@ -19,7 +19,7 @@ As a former marketer turned data analyst, I bring a unique perspective to proble
 ### ⭐ My Projects
 
 - [Spotify Wrapped: A Deep Dive Into 8 Years of Data. Part 1. Retrieving Data From Spotify Using Python and Spotify API](https://github.com/ilonahetsevich/spotify-wrapped-part1-python/tree/main) 
-- [Spotify Wrapped: A Deep Dive Into 8 Years of Data. Part 2. Analyzing Spotify Data Using SQL](link) 
+- [Spotify Wrapped: A Deep Dive Into 8 Years of Data. Part 2. Analyzing Spotify Data Using SQL]([link](https://github.com/ilonahetsevich/spotify-wrapped-part2-sql/tree/main)) 
 
 
 ## 📫 Connect with Me
