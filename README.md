@@ -13,8 +13,7 @@ As a former marketer turned data analyst, I bring a unique perspective to proble
 
 ## 🛠 Skills
 - **Programming Languages**: SQL | Python 
-- **Tools**: Snowflake | Jupyter Notebook | Excel | Adobe Analytics
-- **Visualization**: Tableau 
+- **Tools**: Snowflake | Jupyter Notebook | Excel | Adobe Analytics | Tableau 
 
 ### ⭐ My Projects
 
