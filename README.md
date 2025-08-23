@@ -10,6 +10,7 @@ As a former marketer turned data analyst, I bring a unique perspective to proble
 - 📊 I'm currently a data analyst at PagerDuty, based in Portugal.
 - ✏ I post regularly on my [LinkedIn](https://www.linkedin.com/in/ilonahetsevich/) page. 
 - ✉ I write on [Medium](https://medium.com/@ihetsevi).
+-  My [Tableu Public Portfolio](https://public.tableau.com/app/profile/ilona.hetsevich/vizzes)
 
 ## 🛠 Skills
 - **Programming Languages**: SQL | Python 
