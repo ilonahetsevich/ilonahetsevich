@@ -14,7 +14,7 @@ As a former marketer turned data analyst, I bring a unique perspective to proble
 
 ## 🛠 Skills
 - **Programming Languages**: SQL | Python 
-- **Tools**: Snowflake | Jupyter Notebook | Excel | Adobe Analytics | Tableau 
+- **Tools**: Snowflake | Jupyter Notebook | Excel | Adobe Analytics | Tableau | Marketo | Salesforce
 
 ### ⭐ My Projects
 
@@ -26,6 +26,9 @@ As a former marketer turned data analyst, I bring a unique perspective to proble
 ### ⭐ My Case-Studies
 - [Redefining the Global Target Account List: Using Data to Focus Marketing Spend](https://github.com/ilonahetsevich/marketing-analytics-case-studies/tree/main/redefining-tal)
 - [Fixing the Lead Scoring Math: Unblocking the B2B Marketing Funnel](https://github.com/ilonahetsevich/marketing-analytics-case-studies/tree/main/fixing-lead-scoring)
+
+### ⭐ My AI Skills for Analytics
+- [Data Health Watchdog](https://github.com/ilonahetsevich/analytics-ai-skills/tree/main/data-health-watchdog)
 
 ## 📫 Connect with Me
 
