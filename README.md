@@ -23,6 +23,9 @@ As a former marketer turned data analyst, I bring a unique perspective to proble
 
 - [Marketing Channels Analysis: Visitor Acquisition and Funnel Optimization](https://github.com/ilonahetsevich/marketing-channels-analysis/blob/main/README.md)
 
+### ⭐ My Case-Studies
+- [Redefining the Global Target Account List](https://github.com/ilonahetsevich/marketing-analytics-case-studies/tree/main/redefining-tal)
+
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ilonahetsevich/)
