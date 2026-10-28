@@ -24,7 +24,8 @@ As a former marketer turned data analyst, I bring a unique perspective to proble
 - [Marketing Channels Analysis: Visitor Acquisition and Funnel Optimization](https://github.com/ilonahetsevich/marketing-channels-analysis/blob/main/README.md)
 
 ### ⭐ My Case-Studies
-- [Redefining the Global Target Account List](https://github.com/ilonahetsevich/marketing-analytics-case-studies/tree/main/redefining-tal)
+- [Redefining the Global Target Account List: Using Data to Focus Marketing Spend](https://github.com/ilonahetsevich/marketing-analytics-case-studies/tree/main/redefining-tal)
+- [Fixing the Lead Scoring Math: Unblocking the B2B Marketing Funnel](https://github.com/ilonahetsevich/marketing-analytics-case-studies/tree/main/fixing-lead-scoring)
 
 ## 📫 Connect with Me
 
