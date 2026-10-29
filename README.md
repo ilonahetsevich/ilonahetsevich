@@ -14,7 +14,8 @@ As a former marketer turned data analyst, I bring a unique perspective to proble
 
 ## 🛠 Skills
 - **Programming Languages**: SQL | Python 
-- **Tools**: Snowflake | Jupyter Notebook | Excel | Adobe Analytics | Tableau | Marketo | Salesforce
+- **Tools**: Snowflake | BigQuery | Jupyter Notebook | Excel | Adobe Analytics | Tableau | Marketo | Salesforce | Hubspot | GA4 | Agentic Systems
+- **Experienced in**:: Attribution Modeling | B2B Marketing Analytics | Campaign Measurement | Funnel Analysis | Cohort Analysis | ROI | Budget Optimization | Customer and Lifecycle Analytics | Account and User Engagement
 
 ### 📊 My Projects
 
