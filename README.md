@@ -1,5 +1,5 @@
 ### <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>Hi there, I am Ilona!
-Data Analyst with 14 years of experience in data analysis, digital marketing and web analytics. 
+Data Analyst with 14 years of deep experience in B2B marketing analytics, attribution measurement, marketing funnel analysis and data visualisation.
 </br>
 As a former marketer turned data analyst, I bring a unique perspective to problem solving, blending marketing background with profound understanding of data for optimal business impact.
 
