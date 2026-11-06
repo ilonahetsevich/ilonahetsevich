@@ -31,6 +31,7 @@ As a former marketer turned data analyst, I bring a unique perspective to proble
 ### ⚙️ My AI Skills for Analytics
 - [Data Health Watchdog](https://github.com/ilonahetsevich/analytics-ai-skills/tree/main/data-health-watchdog)
 - [Account Engagement Reporter](https://github.com/ilonahetsevich/analytics-ai-skills/tree/main/account-engagement-reporter)
+- [Dashboard Documenter](https://github.com/ilonahetsevich/analytics-ai-skills/tree/main/dashboard-documenter)
 
 ## 📫 Connect with Me
 
