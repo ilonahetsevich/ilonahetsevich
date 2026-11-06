@@ -32,6 +32,7 @@ As a former marketer turned data analyst, I bring a unique perspective to proble
 - [Data Health Watchdog](https://github.com/ilonahetsevich/analytics-ai-skills/tree/main/data-health-watchdog)
 - [Account Engagement Reporter](https://github.com/ilonahetsevich/analytics-ai-skills/tree/main/account-engagement-reporter)
 - [Dashboard Documenter](https://github.com/ilonahetsevich/analytics-ai-skills/tree/main/dashboard-documenter)
+- [Funnel Metrics Automated Refresh](https://github.com/ilonahetsevich/analytics-ai-skills/tree/main/funnel-metrics-refresh)
 
 ## 📫 Connect with Me
 
